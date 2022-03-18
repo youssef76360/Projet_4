@@ -749,6 +749,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width:100%;
 }
 
 .portfolio-row {
@@ -872,9 +873,6 @@ h4 {
 }
 
 @media (max-width: 991px) {
-    .container {
-        width: 100%;
-    }
     .b-parallax {
         background-attachment: scroll;
     }
