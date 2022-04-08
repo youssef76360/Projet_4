@@ -716,12 +716,13 @@ h1 {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 25px;
     line-height: 1.4em;
+    color:black;
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 20px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -740,6 +741,7 @@ h1 {
 
 h4 {
     color: white;
+    font-size:19px;
 }
 
 .icons {
